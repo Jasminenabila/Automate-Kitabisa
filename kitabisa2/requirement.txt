@@ -30,7 +30,7 @@ pluggy==0.8.1
 progress-bar==8
 progressbar==2.5
 public==2019.4.13
-py==1.7.0
+py==1.10.0
 pycparser==2.19
 pytest==4.1.1
 pytest-forked==1.0.1
